@@ -1,0 +1,1 @@
+# Step 3: Apply DFT (Discrete Fourier Transform)
